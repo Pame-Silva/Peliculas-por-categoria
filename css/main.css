@@ -1,22 +1,58 @@
-.cine {
+/*Home*/
+* {
+	font-family: helvetica;
+}
+.cine{
 	background-color: black;
 }
-
-.cine h1 {
+.cine h1{
 	color: white;
 	text-align: center;
 }
-
+.pelis{
+	background-color: #ff4081;
+}
 .container-peli{
 	border-radius: 50%;
 	display: inline-block;
 	padding: 10px;
 	margin-top: 25px;
 	margin-right: 10px;
+	text-align: center;
 }
-
-.container-peli img {
+.container-peli:hover {
+	opacity: 0.5;
+}
+h3 {
+	text-align: center;
+	color: white;
+}
+.container-peli img{
 	border-radius: 50%;
 	width: 150px;
 	height: 150px;
 }
+/*Fin*/
+
+/*Batman vs Superman*/
+.batman-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.batman-actors img {
+	width: 150px;
+	height: 180px;
+}
+.batman-actors h4 {
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+#text-batman {
+	color: white;
+}
+.background-batman {
+	background-color: #283593;
+}
+/*Fin*/
