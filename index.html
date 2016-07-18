@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<header>
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-12 col-sm-12">
 						<div class="cine">
@@ -19,25 +19,66 @@
 			</div>
 		</header>
 		<section>
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-12 col-sm-12 background-color">
-						<h3>Escoge una categoría</h3>
-						<div class="8-pelis">
-							<img src="images/batman.jpg">
-							<img src="images/beso-frances.jpg">
-							<img src="images/deadpool.jpg">
-							<img src="images/pd-teamo.jpg">
-							<img src="images/shrek.jpg">
-							<img src="images/todo-poderoso.jpg">
-							<img src="images/toy-story-1.jpg">
-							<img src="images/y-donde-estan.jpg">
+					<div class="col-md-12 col-sm-12">
+						<div class="btn-group">
+							<h2>Selecciona una categoría<button class="btn btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Todas las categorías <span class="caret"></span>
+							</button></h2>
 						</div>
+						<ul class="dropdown-menu">
+						    <li><a href="#">Action</a></li>
+						    <li><a href="#">Comedy</a></li>
+						    <li><a href="#">Child</a></li>
+						    <li><a href="#">Romantic</a></li>
+						    <li><a href="#">Suspense</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Accion/batman_v_superman.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Accion/deadpool.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Accion/spiderman.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Comedia/todo-poderoso.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Comedia/y-donde-estan-la-rubias.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Infantil/shrek.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Infantil/toy-story-1.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Infantil/monsters-inc.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Romanticas/beso-frances.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Romanticas/pd-teamo.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Suspenso/el-sexto-sentido.jpg">
+					</div>
+					<div class="col-md-3 col-sm-3 container-peli">
+						<img src="images/Suspenso/spotlight.jpg">
 					</div>
 				</div>
 			</div>
 		</section>
 
-		<script src="js/main.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="js/main.js"></script>
+        
 	</body>
 </html>
