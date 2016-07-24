@@ -43,6 +43,10 @@ h3 {
 .batman-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.batman-actors img:hover{
+	opacity: 0.5;
 }
 .batman-actors h4{
 	font-size: 30px;
@@ -68,6 +72,10 @@ h3 {
 .deadpool-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.deadpool-actors img:hover{
+	opacity: 0.5;
 }
 .deadpool-actors h4{
 	font-size: 30px;
@@ -93,6 +101,10 @@ h3 {
 .spiderman-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.spiderman-actors img:hover{
+	opacity: 0.5;
 }
 .spiderman-actors h4{
 	font-size: 30px;
@@ -118,6 +130,10 @@ h3 {
 .todo-poderoso-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.todo-poderoso-actors img:hover{
+	opacity: 0.5;
 }
 .todo-poderoso-actors h4{
 	font-size: 30px;
@@ -130,9 +146,38 @@ h3 {
 	color: white;
 }
 .background-todo-poderoso{
-	background-color: #42a5f5;
+	background-color: #80deea;
 }
 /*Fin Todo poderoso*/
+
+/*Las rubias*/
+.white-chicks-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.white-chicks-actors img{
+	width: 150px;
+	height: 180px;
+	border-radius: 50px;
+}
+.white-chicks-actors img:hover{
+	opacity: 0.5;
+}
+.white-chicks-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-white-chicks{
+	color: white;
+}
+#h2-white-chicks{
+	color: white;
+}
+.background-white-chicks{
+	background-color: #80deea;
+}
+/*Fin Las rubias*/
 
 /*Monsters, inc*/
 .monsters-p p{
@@ -143,6 +188,10 @@ h3 {
 .monsters-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.monsters-actors img:hover{
+	opacity: 0.5;
 }
 .monsters-actors h4{
 	font-size: 30px;
@@ -155,7 +204,7 @@ h3 {
 	color: white;
 }
 .background-monsters{
-	background-color: #42a5f5;
+	background-color: #0097a7;
 }
 /*Fin Monsters, inc*/
 
@@ -168,6 +217,10 @@ h3 {
 .shrek-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.shrek-actors img:hover{
+	opacity: 0.5;
 }
 .shrek-actors h4{
 	font-size: 30px;
@@ -180,7 +233,7 @@ h3 {
 	color: white;
 }
 .background-shrek{
-	background-color: #42a5f5;
+	background-color: #0097a7;
 }
 /*Fin Shrek*/
 
@@ -193,6 +246,10 @@ h3 {
 .t-story-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.t-story-actors img:hover{
+	opacity: 0.5;
 }
 .t-story-actors h4{
 	font-size: 30px;
@@ -205,7 +262,7 @@ h3 {
 	color: white;
 }
 .background-t-story{
-	background-color: #42a5f5;
+	background-color: #0097a7;
 }
 /*Fin Toy Story*/
 
@@ -218,6 +275,10 @@ h3 {
 .b-frances-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.b-frances-actors img:hover{
+	opacity: 0.5;
 }
 .b-frances-actors h4{
 	font-size: 30px;
@@ -230,7 +291,7 @@ h3 {
 	color: white;
 }
 .background-b-frances{
-	background-color: #42a5f5;
+	background-color: #b71c1c;
 }
 /*Fin Beso Francés*/
 
@@ -243,6 +304,10 @@ h3 {
 .pd-teamo-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.pd-teamo-actors img:hover{
+	opacity: 0.5;
 }
 .pd-teamo-actors h4{
 	font-size: 30px;
@@ -255,12 +320,12 @@ h3 {
 	color: white;
 }
 .background-pd-teamo{
-	background-color: #42a5f5;
+	background-color: #b71c1c;
 }
 /*Fin PD:Te amo*/
 
 /*El sexto sentido*/
-.6sentido p{
+.6sentido-p p{
 	text-align: left;
 	font-size: 18px;
 	color: white;
@@ -268,6 +333,10 @@ h3 {
 .6sentido-actors img{
 	width: 150px;
 	height: 180px;
+	border-radius: 50px;
+}
+.6sentido-actors img:hover{
+	opacity: 0.5;
 }
 .6sentido-actors h4{
 	font-size: 30px;
@@ -280,6 +349,35 @@ h3 {
 	color: white;
 }
 .background-6sentido{
-	background-color: #42a5f5;
+	background-color: #4db6ac;
 }
 /*Fin El sexto sentido*/
+
+/*spotlight*/
+.spotlight-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.spotlight-actors img{
+	width: 150px;
+	height: 180px;
+	border-radius: 50px;
+}
+.spotlight-actors img:hover{
+	opacity: 0.5;
+}
+.spotlight-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-spotlight{
+	color: white;
+}
+#h2-spotlight{
+	color: white;
+}
+.background-spotlight{
+	background-color: #4db6ac;
+}
+/*Fin spotlight*/
