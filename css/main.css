@@ -20,7 +20,7 @@
 	margin-right: 10px;
 	text-align: center;
 }
-.container-peli:hover {
+.container-peli:hover{
 	opacity: 0.5;
 }
 h3 {
@@ -40,19 +40,246 @@ h3 {
 	font-size: 18px;
 	color: white;
 }
-.batman-actors img {
+.batman-actors img{
 	width: 150px;
 	height: 180px;
 }
-.batman-actors h4 {
+.batman-actors h4{
 	font-size: 30px;
-	text-align: center;
 	color: white;
 }
-#text-batman {
+#text-batman{
 	color: white;
 }
-.background-batman {
+#h2-batman{
+	color: white;
+}
+.background-batman{
 	background-color: #283593;
 }
-/*Fin*/
+/*Fin B v/s S*/
+
+/*Deadpool*/
+.deadpool-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.deadpool-actors img{
+	width: 150px;
+	height: 180px;
+}
+.deadpool-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-deadpool{
+	color: white;
+}
+#h2-deadpool{
+	color: white;
+}
+.background-deadpool{
+	background-color: #b71c1c;
+}
+/*Fin Deadpool*/
+
+/*Spiderman*/
+.spiderman-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.spiderman-actors img{
+	width: 150px;
+	height: 180px;
+}
+.spiderman-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-spiderman{
+	color: white;
+}
+#h2-spiderman{
+	color: white;
+}
+.background-spiderman{
+	background-color: #0d47a1;
+}
+/*Fin Spiderman*/
+
+/*Todo poderoso*/
+.todo-poderoso-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.todo-poderoso-actors img{
+	width: 150px;
+	height: 180px;
+}
+.todo-poderoso-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-todo-poderoso{
+	color: white;
+}
+#h2-todo-poderoso{
+	color: white;
+}
+.background-todo-poderoso{
+	background-color: #42a5f5;
+}
+/*Fin Todo poderoso*/
+
+/*Monsters, inc*/
+.monsters-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.monsters-actors img{
+	width: 150px;
+	height: 180px;
+}
+.monsters-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-monsters{
+	color: white;
+}
+#h2-monsters{
+	color: white;
+}
+.background-monsters{
+	background-color: #42a5f5;
+}
+/*Fin Monsters, inc*/
+
+/*Shrek*/
+.shrek-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.shrek-actors img{
+	width: 150px;
+	height: 180px;
+}
+.shrek-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-shrek{
+	color: white;
+}
+#h2-shrek{
+	color: white;
+}
+.background-shrek{
+	background-color: #42a5f5;
+}
+/*Fin Shrek*/
+
+/*Toy Story*/
+.t-story-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.t-story-actors img{
+	width: 150px;
+	height: 180px;
+}
+.t-story-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-t-story{
+	color: white;
+}
+#h2-t-story{
+	color: white;
+}
+.background-t-story{
+	background-color: #42a5f5;
+}
+/*Fin Toy Story*/
+
+/*Beso Francés*/
+.b-frances-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.b-frances-actors img{
+	width: 150px;
+	height: 180px;
+}
+.b-frances-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-b-frances{
+	color: white;
+}
+#h2-b-frances{
+	color: white;
+}
+.background-b-frances{
+	background-color: #42a5f5;
+}
+/*Fin Beso Francés*/
+
+/*PD:Te amo*/
+.pd-teamo-p p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.pd-teamo-actors img{
+	width: 150px;
+	height: 180px;
+}
+.pd-teamo-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-pd-teamo{
+	color: white;
+}
+#h2-pd-teamo{
+	color: white;
+}
+.background-pd-teamo{
+	background-color: #42a5f5;
+}
+/*Fin PD:Te amo*/
+
+/*El sexto sentido*/
+.6sentido p{
+	text-align: left;
+	font-size: 18px;
+	color: white;
+}
+.6sentido-actors img{
+	width: 150px;
+	height: 180px;
+}
+.6sentido-actors h4{
+	font-size: 30px;
+	color: white;
+}
+#text-6sentido{
+	color: white;
+}
+#h2-6sentido{
+	color: white;
+}
+.background-6sentido{
+	background-color: #42a5f5;
+}
+/*Fin El sexto sentido*/
